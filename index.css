@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap')
+*{margin: 0;
+padding: 0;
+   
+}
+header{
+    padding: 30px 0px;
+    background-color: rgb(245,245,245);
+
+}
+.header-title{
+    text-align: center;
+    font-size: 40px;
+}
+.header-text{
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.header-img{
+    width: 100%;
+    text-align: center;
+    margin:30px 0px 0px 0px ;
+    margin-top: 30px;
+
+}
+img{
+    width: 700px;
+}
+.header-links{
+    text-align: center;
+}
+.products{
+    background-color: #6f2cff;
+    color: white;
+    padding: 6px 10px;
+    text-decoration: none;
+    border-radius: 30px;
+}
+.demo{
+    background-color:white ;
+    color: #6f2cff;
+    padding: 6px 10px;
+    text-decoration: none;
+    border-radius: 30px;
+}
+.text{
+    text-align: center;
+}
+.brands{
+    text-align: center;
+}
+.brand{
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(218,217,217);
+    display: inline-block;
+    margin-left: 15px;
+}
+.brand img{
+    width: 100%;
+}
+.brand h3{
+    padding: 30px 0px;
+}
+.brand p{
+    padding: 0px 20px 40px;
+    color:blueviolet ;
+    font-size: 20px;
+
+}
+.sector-text{
+    text-align: center;
+    padding: 30px 0px;
+}
+.sector-txt{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    text-align: center;
+
+}
+.sector{
+    padding: 30px 0px;
+    background-color: rgb(218,217,217);
+}
+.box{
+    background-color: rgb(23,0,46);
+    color: white;
+    width: 450px;
+    padding: 15px 20px 30px; 
+    border-radius: 10px;
+display: inline-block;
+margin: 10px;
+}
+.box img{
+    width: 35px;
+}
+.box h4{
+    display: inline;
+}
+.box p{
+    padding: 5px 0px;
+}
